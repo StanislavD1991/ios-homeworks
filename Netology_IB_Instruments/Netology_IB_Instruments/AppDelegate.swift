@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Netology_IB_Instruments
-//
-//  Created by Stanislav on 12.06.2022.
-//
-
 import UIKit
 
 @main
